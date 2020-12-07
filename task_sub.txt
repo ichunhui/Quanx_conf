@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/ichunhui/Quanx_conf/main/task.json
+
+https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Task/zZPiglet.json
+https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Task/toulanboy.json
+https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Task/songyangzz.json
+https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Task/chavyleung.jason
+https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Task/Sunert.json
+https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Task/Peng-YM.json
+https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Task/Nobyda.json
