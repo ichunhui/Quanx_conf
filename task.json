@@ -2,6 +2,8 @@
     "name": "jimmy",
     "description": "自用",
     "task": [
+        "*/11 * * * * https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/qqreads.js,tag=企鹅读书,enabled=true",
+    
         "0 0-21/3 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js, tag=彩云天气, img-url=https://raw.githubusercontent.com/Orz-3/task/master/caiyun.png,enabled=true",
         
         "11 7 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺, img-url=https://raw.githubusercontent.com/Orz-3/task/master/iQIYI.png,enabled=true",
@@ -55,6 +57,12 @@
         "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_ms_redrain.js, tag=秒杀红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_ms_redrain.png, enabled=true",
         "10 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_split.js, tag=年终奖, enabled=true",
         "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_bean_home.js, tag=领京豆额外奖励, enabled=true",
+        "10 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_kd.js, tag=京东快递签到, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_kd.png, enabled=true",
+        "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_car.js, tag=京东汽车, enabled=true",
+        "10 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_health.js, tag=健康抽奖机, enabled=true",
+        "0 0,9,11,13,15,17,19,20,21,23 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live_redrain.js, tag=直播红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
+        "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_digital_floor.js, tag=数码加购京豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
+        "10 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_apple_live.js, tag=苹果抽奖机, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_lotteryMachine.png, enabled=true",
 
         "1 0 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=京东抽奖机, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
         "11 9 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js, tag=京东排行榜, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
