@@ -39,10 +39,10 @@ http://api.turinglabs.net/api/v1/jd/cleantimeinfo/
 '''
 
 ddfactory = 'http://api.turinglabs.net/api/v1/jd/ddfactory/create/'
-ddfactorydata = ['P04z54XCjVWnYaS5jYJDGjx3nhIkwk0', 'P04z54XCjVWnYaS5m9cZxGCpxw083240A7kvA'] //1,3
+ddfactorydata = ['P04z54XCjVWnYaS5jYJDGjx3nhIkwk0', 'P04z54XCjVWnYaS5m9cZxGCpxw083240A7kvA'] #1,3
 
 jxfactory = 'http://api.turinglabs.net/api/v1/jd/jxfactory/create/'
-jxfactorydata = ['U2URkN81Loo84dPu_sj94Q=='] //1
+jxfactorydata = ['U2URkN81Loo84dPu_sj94Q=='] #1
 
 bean = 'http://api.turinglabs.net/api/v1/jd/bean/create/'
 beandata = ['ucpjlpwnmy2nk75jrfodjhhiqa', 'igefhjvuw6xvscczs5ojykn7nodbt3wbidrtxyi', '2vgtxj43q3jqznayta53va7id6b3lsggdiq7o4a']
@@ -51,7 +51,7 @@ farm = 'http://api.turinglabs.net/api/v1/jd/farm/create/'
 farmdata = ['83aead50c97541259ca5d84df0922c7f', '325cdaf9627d485a9193dd55de57ae27', '43f855a035094b92bfb825948ee0df91']
 
 pet = 'http://api.turinglabs.net/api/v1/jd/pet/create/'
-petdata = ['MTE1NDQ5OTUwMDAwMDAwMzkwNTAxMTE', 'MTE1NDAxNzgwMDAwMDAwMzkzMTEwMTU=', 'MTAxODExNTM5NDAwMDAwMDA0MDc2MTMxNw']
+petdata = ['MTE1NDQ5OTUwMDAwMDAwMzkwNTAxMTE=', 'MTE1NDAxNzgwMDAwMDAwMzkzMTEwMTU=', 'MTAxODExNTM5NDAwMDAwMDA0MDc2MTMxNw==']
 
 def get(link, data):
 	for i in data:
