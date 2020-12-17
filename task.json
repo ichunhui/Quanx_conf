@@ -4,6 +4,7 @@
     "task": [
         "10 8 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_jdh.js, tag=京东健康, enabled=true",
         "0 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_jdzz.js, tag=京东赚赚, enabled=true",
+        "10-20/10 9 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_watch.js, tag=京东看一看, enabled=true",
         
         "*/11 * * * * https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/qqreads.js,tag=企鹅读书,enabled=true",
     
