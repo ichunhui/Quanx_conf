@@ -1,7 +1,4 @@
 https://raw.githubusercontent.com/ichunhui/Quanx_conf/main/lite/task.json
-https://raw.githubusercontent.com/ichunhui/Quanx_conf/main/lite/lxk0301.json
-
-https://gitee.com/lxk0301/jd_scripts/raw/master/QuantumultX/lxk0301_gallery.json
 
 https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Task/zZPiglet.json
 https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Task/toulanboy.json
