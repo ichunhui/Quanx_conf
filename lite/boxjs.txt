@@ -1,0 +1,15 @@
+https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json
+
+https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
+
+https://raw.githubusercontent.com/toulanboy/scripts/master/toulanboy.boxjs.json
+
+https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/evilbutcher.boxjs.json
+
+https://jdsharedresourcescdn.azureedge.net/jdresource/lxk0301.boxjs.json
+
+https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/sunert.boxjs.json
+
+https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/longzhuzhu.boxjs.json
+
+https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.json
